@@ -13,7 +13,7 @@ Copyright © 2024 [Anderson Carvalho] - GNU GENERAL PUBLIC LICENSE
 - Depois faça o upload dos seus arquivos PDF e arraste-os para dentro da pasta PDF que criou. Leve em conta que a API do Gemini pode limitar de quantidade de dados carregados dos PDF se você está usando a versão gratuita da API, então use apenas um ou dois arquivos pequenos (deixei 2 arquivos que usei para testar aqui no repositório, na pasta "PDFs para teste").
 - Garanta que os arquivos na pasta sejam realmente PDFs. Atente que esse projeto assume que os PDFs contêm texto extraível, portanto não irá funcionar com PDFs que são apenas imagens digitalizadas, pois exigiria técnicas de OCR (Optical Character Recognition) para extrair o texto.
 - Execute o código célula por célula.
-- Interaja com o chatbot fazendo perguntas sobre leis.
+- Interaja com o chatbot fazendo perguntas sobre o conteúdo dos PDFs.
 - Digite "sair" para encerrar o chat.
 
 Observação: Este é um exemplo básico genérico, mas que talvez possa se aprimorado adicionando mais funcionalidades, como especialização por área e uma interface web.
