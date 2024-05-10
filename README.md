@@ -4,7 +4,7 @@
 
 Este projeto contém um notebook que demonstra como combinar a API Gemini com embeddings para criar um chatbot capaz de responder perguntas sobre o conteúdo de documentos e buscar informações relevantes em uma base de documentos PDF.
 
-Copyright © 2024 [Anderson Carvalho]
+Copyright © 2024 [Anderson Carvalho] - GNU GENERAL PUBLIC LICENSE
 
 # Instruções para Utilização
 
